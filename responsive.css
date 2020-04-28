@@ -56,12 +56,8 @@
     text-align: center;
   }   
   
-  header {
-    width: 100%;
-  }
-  
   .message {
-    margin: 0 auto;
+    margin-right: 20px;
   }
  
   footer {
