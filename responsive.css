@@ -19,10 +19,6 @@
 }
 
 @media all and (max-width: 670px) {
-  * {
-    width: 100%
-  }
-  
   .header-right {
     display: none;
   }
