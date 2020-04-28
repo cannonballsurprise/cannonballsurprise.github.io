@@ -52,14 +52,10 @@
     width: 100%;
   }  
   
-  .message {
+  .message-wrapper {
     text-align: center;
-  }
-     
-  header {
-    width: 90%;
-  }
-  
+  }   
+ 
   footer {
     text-align: center;
   }
