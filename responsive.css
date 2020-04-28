@@ -41,7 +41,7 @@
   }
 
   .btn {
-    width: 90%;
+    width: 85%;
   }
 
   .facebook {
@@ -54,6 +54,11 @@
   
   .message {
     width: 100%;
+    text-aline: center;
+  }
+  
+  header {
+  width: 85%;
   }
   
   footer {
