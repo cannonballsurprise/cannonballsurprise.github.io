@@ -19,10 +19,6 @@
 }
 
 @media all and (max-width: 670px) {
-  * {
-    width: 100%;
-  }
-  
   .header-right {
     display: none;
   }
@@ -45,7 +41,7 @@
   }
 
   .btn {
-    width: 100%;
+    width: 90%;
   }
 
   .facebook {
