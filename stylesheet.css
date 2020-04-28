@@ -183,3 +183,15 @@ footer p {
   font-size: 12px;
   color: #b3aeb5;
 }
+
+.menu-icon {
+  float: right;
+  font-size: 25px;
+  margin-top: 21px;
+  display: none;
+  color: white
+}
+
+.clear {
+  clear: left;
+}
